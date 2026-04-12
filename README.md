@@ -6,9 +6,15 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-ealeenbasyan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ealeenbasyan@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Himachal%20Pradesh,%20India-1b2a4a?style=for-the-badge)](https://en.wikipedia.org/wiki/Himachal_Pradesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ealeen%20Basyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ealeen-basyan-b134313b3/)
+[![Location](https://img.shields.io/badge/📍-Himachal%20Pradesh,%20India-1b2a4a?style=for-the-badge)](#)
+[![University](https://img.shields.io/badge/🏛️-Gautam%20Buddha%20University-b8975a?style=for-the-badge)](#)
+[![NCC](https://img.shields.io/badge/🎖️-NCC%20Cadet-1b2a4a?style=for-the-badge)](#)
+[![Volleyball](https://img.shields.io/badge/🏐-National%20Volleyball%20Player-0A66C2?style=for-the-badge)](#)
+[![Hackathon](https://img.shields.io/badge/🏆-IgNITionHack%202.0%20Finalist-b8975a?style=for-the-badge)](#)
+[![NDA](https://img.shields.io/badge/🎖️-NDA%20Qualified-1b2a4a?style=for-the-badge)](#)
+[![Super30](https://img.shields.io/badge/⭐-Super%2030%20Selected-FF6F00?style=for-the-badge)](#)
+[![Open To Work](https://img.shields.io/badge/💼-Open%20To%20Opportunities-22c55e?style=for-the-badge)](#)
 
 </div>
 
@@ -25,6 +31,7 @@ ncc         : Active NCC Cadet
 sport       : National Level Volleyball Player 🏐
 location    : Himachal Pradesh, India
 open_to     : Teaching Roles | Collaborations | Tech Projects
+linkedin    : linkedin.com/in/ealeen-basyan-b134313b3
 ```
 
 > *"Discipline on the field. Discipline in the code. Same mindset, different arena."*
@@ -180,10 +187,10 @@ Student Evaluation   ███████████████████�
 
 <div align="center">
 
-If you're looking for someone who brings **discipline, communication skills, and a genuine hunger to grow** — let's talk.
+If you're looking for someone who brings **discipline, communication skills, and a genuine hunger to grow** — let's connect on LinkedIn.
 
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-ealeenbasyan@gmail.com-1b2a4a?style=for-the-badge)](mailto:ealeenbasyan@gmail.com)
-[![Phone](https://img.shields.io/badge/📞%20Call-+91%207876840648-b8975a?style=for-the-badge)](tel:+917876840648)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ealeen%20Basyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ealeen-basyan-b134313b3/)
+[![Open To Work](https://img.shields.io/badge/Status-Open%20To%20Opportunities-22c55e?style=for-the-badge)](#)
 
 </div>
 
